@@ -6,7 +6,7 @@ The goal is to understand sales performance, profit behavior, category trends, r
 -------------------------------------------------------------------
 
 Project Structure
-
+```
 salesdatareport/
 │
 ├── data/
@@ -31,7 +31,7 @@ salesdatareport/
 │
 ├── requirements.txt
 └── README.md
-
+```
 -------------------------------------------------------------------
 
 Objective
